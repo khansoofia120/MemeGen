@@ -1,1 +1,1 @@
-# MemeGen
+A 10-minute project. When you hover your mouse over the meme, the meme would not update. The moment you remove the mouse, a new meme will apppear automatically. Chornicles of JavaScript they call it!!
